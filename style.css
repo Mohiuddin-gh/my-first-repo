@@ -30,3 +30,6 @@ a.hire{
     background-image: linear-gradient(red orange);
     text-decoration: none;
 }
+.one-third{
+    width: 33%;
+}
