@@ -1,0 +1,32 @@
+.top-blog image{
+    width: 80%;
+}
+
+}
+.Color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+h1{
+    font-size:50px;
+    font-weight: 700;
+}
+.top-blog{
+    display: flex;
+   margin-left:200px ;
+   padding: 20px;
+   margin-bottom: 100px;
+
+}
+
+body{
+    font-size: 20px;
+}
+a.hire{
+    font-weight: 900;
+    padding: 10PX 40PX;
+    background-image: linear-gradient(red orange);
+    text-decoration: none;
+}
